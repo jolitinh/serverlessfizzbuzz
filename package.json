@@ -1,0 +1,23 @@
+{
+  "name": "serverlessfizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolitinh/serverlessfizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolitinh/serverlessfizzbuzz/issues"
+  },
+  "homepage": "https://github.com/jolitinh/serverlessfizzbuzz#readme",
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  }
+}
